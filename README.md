@@ -1,2 +1,2 @@
-# GUI-Helper
-GUI Helperの関数情報やファイルアップローダー
+# GUI Helper
+このレポジトリはMineCraft PE専用テンプレートの"GUI Helper"のまとめです。
