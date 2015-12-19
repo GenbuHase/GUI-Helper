@@ -1,5 +1,5 @@
 # GUI Helper On GitHub
-このレポジトリはMineCraft PE Mod専用テンプレートの**GUI Helper**をまとめています。
+このレポジトリではMineCraft PE Mod専用テンプレートの**GUI Helper**をまとめています。
 <br>
 ここでは関数リストやModdingに役立つ情報を取り扱っています。
 ****************************************************************************************************
@@ -11,3 +11,4 @@
 > |2015/11/02|`GUI Helper Release 1.02`|
 > |2015/11/03|`GUI Helper Release 1.03`|
 > |2015/11/08|`GUI Helper Release 1.04`|
+> |2015/11/08|`GUI Helper Release 1.05`|
