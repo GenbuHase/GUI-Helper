@@ -12,3 +12,7 @@
 > |2015/11/03|`GUI Helper Release 1.03`|
 > |2015/11/08|`GUI Helper Release 1.04`|
 > |2015/11/08|`GUI Helper Release 1.05`|
+> |2015/11/09|`GUI Helper Release 1.06`|
+> |2015/11/12|`GUI Helper Release 1.07`|
+> |2015/11/23|`GUI Helper Release 1.08`|
+> |2015/12/03|`GUI Helper Release 1.09`|
