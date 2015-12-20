@@ -16,3 +16,4 @@
 > |2015/11/12|`GUI Helper Release 1.07`|
 > |2015/11/23|`GUI Helper Release 1.08`|
 > |2015/12/03|`GUI Helper Release 1.09`|
+> |2015年内|`GUI Helper Release 1.10`|
