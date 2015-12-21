@@ -22,7 +22,7 @@
 > #### GUI Helper Release 1.09
 >> プログレスバーの色を変更可能に
 >
-> #### GUI Helper Release 1.10
+> #### GUI Helper Release 1.08
 >> _ImageView_を追加
 >> <br>
 >> _SeekBar_に機能を追加
