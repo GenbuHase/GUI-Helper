@@ -3,20 +3,25 @@ function UpdateCheck() {
 		new java.lang.Runnable({
 			run: function () {
 				try {
-					var Connecter = new java.net.URL("https://github.com/GenbuHase/GUI-Helper/tree/master/Alpha/").openConnection().connect();
-					var ModContent = new java.io.BufferedReader(
-						new java.io.InputStreamReader(Connecter.getInputStream())
-					);
+					var Connecter = new java.net.URL("https://raw.githubusercontent.com/GenbuHase/GUI-Helper/master/Alpha/After.js").openConnection();
+						Connecter.connect();
 
-					while (ModContent.readLine() != null) {
-						if (ModContent.readLine() == "") {
-							
-						}
+					var AfterMod = new java.io.BufferedReader(new java.io.InputStreamReader(Connecter.getInputStream()));
+					var AfterContent = "";
+
+					while (AfterMod.readLine() != null) {
+						AfterContent += AfterMod.readLine() + "\n";
 					}
+
+					clientMessage(AfterContent);
 				} catch (Error) {
 					clientMessage(Error);
 				}
 			}
 		})
-	);
+	).start();
+}
+
+function newLevel() {
+	UpdateCheck();
 }
