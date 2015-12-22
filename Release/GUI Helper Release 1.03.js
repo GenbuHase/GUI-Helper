@@ -145,4 +145,7 @@ function AddToggle(ID, Text1, Text2, TextSize1, TextSize2, Color1, Color2, Fuc, 
 	
 	Toggles[ID].setOnClickListener(Content);
 	Window = new android.widget.PopupWindow(Toggles[ID], Width, Height);
-	Window.showAtLocation(GUI.getWindow().getDecorView(), XAlign|YA
+	Window.showAtLocation(GUI.getWindow().getDecorView(), XAlign|YAlign, XPosition, YPosition);
+	
+	Window.setContentView(Toggles[ID]);
+}
