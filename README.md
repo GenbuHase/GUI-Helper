@@ -3,7 +3,7 @@
 <br>
 ここでは関数リストやModdingに役立つ情報を取り扱っています。
 
-GUI HelperはGenbu Project及びGenbu Haseの著作物であり、許可なく改変や再配布を行うことを禁止します。
+GUI Helperは[Genbu Project](https://github.com/GenbuProject)及び[Genbu Hase](https://github.com/GenbuHase/)の著作物であり、許可なく改変や再配布を行うことを禁止します。
 ****************************************************************************************************
 ### 1. リリース履歴
 > |リリース日|バージョン|
