@@ -3,7 +3,7 @@
 <br>
 ここでは関数リストやModdingに役立つ情報を取り扱っています。
 
-GUI Helperは[Genbu Project](https://github.com/GenbuProject)及び[Genbu Hase](https://github.com/GenbuHase/)の著作物であり、許可なく改変や再配布を行うことを禁止します。
+GUI Helperは[Genbu Project](https://github.com/GenbuProject)及び[Genbu Hase](https://github.com/GenbuHase/)の著作物ですので、許可なく改変や再配布を行うことを禁止します。
 ****************************************************************************************************
 ### 1. リリース履歴
 > |リリース日|バージョン|
@@ -18,9 +18,30 @@ GUI Helperは[Genbu Project](https://github.com/GenbuProject)及び[Genbu Hase](
 > |2015/11/12|`GUI Helper Release 1.07`|
 > |2015/11/23|`GUI Helper Release 1.08`|
 > |2015/12/03|`GUI Helper Release 1.09`|
-> |2015年内|`GUI Helper Release 1.10`|
+> |2016/02/11|`GUI Helper Release 1.10`|
+> |2016/02/21|`GUI Helper Release 1.11`|
+> |2016/02/21|`GUI Helper Release 1.12`|
 
 ### 2. 変更履歴
+> #### GUI Helper Release 1.12
+>> 多くのバグを修正
+>
+> #### GUI Helper Release 1.11
+>> 多くのバグを修正
+>
+> #### GUI Helper Release 1.10
+>> 関数をカプセル化
+>> <br>
+>> 数個の関数名を変更
+>> <br>
+>> _AddImageView_のネット上からの取り込みに対応
+>> <br>
+>> _AddImageButton_を追加
+>> <br>
+>> _ShowAlertDialog_を追加
+>> <br>
+>> 自動アップデート機能を搭載
+>
 > #### GUI Helper Release 1.09
 >> プログレスバーの色を変更可能に
 >
