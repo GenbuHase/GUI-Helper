@@ -6,8 +6,8 @@
 GUI Helperは[Genbu Project](https://github.com/GenbuProject)及び[Genbu Hase](https://github.com/GenbuHase/)の著作物ですので、許可なく改変や再配布を行うことを禁止します。
 ****************************************************************************************************
 ### 1. リリース履歴
-> |リリース日|バージョン|
-> |:--------:|:----------:|
+> |リリース日|バージョン               |
+> |:--------:|:-----------------------:|
 > |2015/10/30|`GUI Helper Release 1.00`|
 > |2015/11/01|`GUI Helper Release 1.01`|
 > |2015/11/02|`GUI Helper Release 1.02`|
@@ -21,8 +21,14 @@ GUI Helperは[Genbu Project](https://github.com/GenbuProject)及び[Genbu Hase](
 > |2016/02/11|`GUI Helper Release 1.10`|
 > |2016/02/21|`GUI Helper Release 1.11`|
 > |2016/02/21|`GUI Helper Release 1.12`|
+> |2016/05/01|`GUI Helper Release 1.13`|
 
 ### 2. 変更履歴
+> #### GUI Helper Release 1.13
+>> SeekBarのバグを修正
+>> <br>
+>> GUI Helperの最後の更新。
+> 
 > #### GUI Helper Release 1.12
 >> 多くのバグを修正
 >
